@@ -1,23 +1,22 @@
-# 🐾 PetzTeam – Plateforme de garde d'animaux
+# 🐾 PetzTeam – Your Pet Sitting Platform
 
-Ce projet est une application web fullstack permettant la mise en relation entre propriétaires d'animaux et gardiens proche de chez eux.  
-
-
-Je suis en apprentissage donc il s'agira ici de mettre en pratique ce que j'ai appris jusqu'ici. 
+This project is a full-stack web application that connects pet owners with trusted sitters near them.
+As I'm currently in (intensive) training program, this is a side project for me to put into practice what I've learned so far.
+It is also a way for me to continue exploring and learning React.
+This will be the backend repo. When the backend is completed, there will be a link to frontend. 
 
 ---
 
-## 🧱 Stack technique
+## 🧱 Stack 
 
 ### 🔙 Back-end – Java
-- Framework : Spring Boot
-- Base de données : PostgreSQL 
-- Hashing des mots de passe : BCrypt
+- Framework : SpringBoot
+- SpringSecurity
+- Hashing : BCrypt
+- Database : PostgreSQL 
 
 ### 🔝 Front-end 
-- Framework : React
-- React ROUTER
-- Vite
+- React / Vite
 - Axios
 - Tailwind CSS
 
