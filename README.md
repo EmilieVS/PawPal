@@ -9,10 +9,8 @@ This will be the backend repo. When it's completed, there will be a link to the 
 
 ## 🧱 Stack 
 
-### 🔙 Back-end – Java
-- Framework : SpringBoot
-- SpringSecurity
-- Hashing : BCrypt
+### 🔙 Back-end – Php
+- Framework : Laravel
 - Database : PostgreSQL 
 
 ### 🔝 Front-end 
